@@ -41,6 +41,7 @@
             button1.TabIndex = 0;
             button1.Text = "Show Form 2";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label1
             // 
